@@ -1,1 +1,2 @@
 # SandboxProjects
+<project></project>
