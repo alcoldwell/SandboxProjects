@@ -1,2 +1,2 @@
 # SandboxProjects
-<project></project>
+<project>This is a project.</project>
